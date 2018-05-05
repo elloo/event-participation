@@ -1,5 +1,5 @@
 $ cat .gitattributes
-*.rb linguist-language=Javascript
-*.rb linguist-vendored=Javascript
+*.rb linguist-language=JavaScript
+*.rb linguist-vendored=JavaScript
 
-react-weather-app/node_modules/* linguist-vendored=true
+react-weather-app/node_modules/coa/* linguist-vendored=true
