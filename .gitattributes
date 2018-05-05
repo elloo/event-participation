@@ -2,4 +2,4 @@ $ cat .gitattributes
 *.rb linguist-language=Javascript
 *.rb linguist-vendored=Javascript
 
-react-weather-app/* linguist-vendored=true
+react-weather-app/node_modules/* linguist-vendored=true
