@@ -2,7 +2,7 @@ This is a project I built on the 5th of May, 2018 as part of a React workshop ho
 
 I ended up making a small modification by adding "&units=metric" to the API request. This converted the temperature result from Kelvin to Celsius. ([API Doc](https://openweathermap.org/api))
 
-![Screenshot](public/screenshot.jpg)
+<img src="public/screenshot.jpg">
 
 <hr>
 
