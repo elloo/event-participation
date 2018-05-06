@@ -21,7 +21,7 @@ export default Weather;
           // className links the element to the CSS
           // Elements always need to be nested - usually within a div
 
-          // Include components with brackets "<" and ">" to indicate HTML
-          // Backticks "\" allow variables to be concatenated with strings
-            // "${VARIABLE}" indicates a variable
-        // Note you do not need constructor to pass in props - just pass them in App.js
+          // Include components with brackets < and > to indicate HTML
+          // Backticks \ allow variables to be concatenated with strings
+          // ${VARIABLE} indicates a variable
+          // Note you do not need constructor to pass in props - just pass them in App.js

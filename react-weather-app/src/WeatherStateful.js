@@ -1,3 +1,5 @@
+// Left this here for the sake of comparison
+
 import React from "react";
 
 // Class name should be same as file name
