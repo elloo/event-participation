@@ -1,6 +1,6 @@
 This is a project I built on the 5th of May, 2018 as part of a React workshop hosted by Node Girls Sydney. It was my second time working with React and the experience was good revision of basic concepts.
 
-<p align="center">![Screenshot](public/screenshot.jpg)</div>
+<div align="center"><img src="public/screenshot.jpg"></div>
 
 <hr>
 
