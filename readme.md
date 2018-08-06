@@ -1,0 +1,1 @@
+[RoR Installfest Blog](https://powerful-sea-92526.herokuapp.com/)
